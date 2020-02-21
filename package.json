@@ -1,0 +1,21 @@
+{
+  "name": "realtime-chat",
+  "version": "0.0.1",
+  "description": "Minimalist multiroom chat server",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrécio Costa",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "~1.2.7",
+    "socket.io": "~0.9.6"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
